@@ -3,7 +3,7 @@
 :root {
   --bg-color: #000000;
   --primary-color: #468585;
-  --secundary-color: #DEF9C4;
+  --secundary-color: #ca2a0a;
   --font: Grandstander;
 }
 
@@ -70,6 +70,6 @@ body {
 
   span{
     font-weight: bold;
-    color: var(--secundary-color);
+    color: var(--primary-color);
     background-color: var(--secundary-color);
 }
